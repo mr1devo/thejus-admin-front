@@ -1,0 +1,141 @@
+/* styles.css */
+
+.background-container {
+    background-image: url('https://th.bing.com/th/id/R.f6a54018c7dc21b13bc50b3028a505c1?rik=S%2bvsl43J5kwysA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fbctOXl2.png&ehk=oRNRjuA5iN7wPrr%2fkPIWZYU8bBPwBzdX8mISG%2blMsEI%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover; /* Adjust as needed: 'cover', 'contain', etc. */
+    background-position: center; /* Adjust as needed: 'center', 'top', 'bottom', etc. */
+    background-repeat: no-repeat;
+    height: 100vh; /* Set the height based on your design */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  body {
+    margin: 0; /* Remove default margin for full-width background */
+    font-family: 'YourFontHere', sans-serif; /* Set the default font */
+    color: #ffffff; /* Set the default text color */
+  }
+  
+
+  .background-2 {
+    background-image: url('https://th.bing.com/th/id/R.f6a54018c7dc21b13bc50b3028a505c1?rik=S%2bvsl43J5kwysA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fbctOXl2.png&ehk=oRNRjuA5iN7wPrr%2fkPIWZYU8bBPwBzdX8mISG%2blMsEI%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover; /* Adjust as needed: 'cover', 'contain', etc. */
+    background-position: center; /* Adjust as needed: 'center', 'top', 'bottom', etc. */
+    background-repeat: no-repeat;
+    height: 100vh; /* Set the height based on your design */
+    display: flex;
+    flex-direction: column;
+  }
+
+  .background-3 {
+    background-image: url('https://th.bing.com/th/id/R.f6a54018c7dc21b13bc50b3028a505c1?rik=S%2bvsl43J5kwysA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fbctOXl2.png&ehk=oRNRjuA5iN7wPrr%2fkPIWZYU8bBPwBzdX8mISG%2blMsEI%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover; /* Adjust as needed: 'cover', 'contain', etc. */
+    background-position: center; /* Adjust as needed: 'center', 'top', 'bottom', etc. */
+    background-repeat: no-repeat;
+    height: 100vh; /* Set the height based on your design */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    font-family: cursive; 
+    color: #ffffff; 
+  }
+
+
+
+
+
+
+
+
+
+
+
+  .wel
+{
+  margin-left: 250px;
+  margin-top: 50px;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  
+  
+  }
+  
+  
+  /* Header styles */
+  .header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+  }
+  
+  /* Sidebar styles */
+  .sidebar {
+    background-color: #222;
+    color: #fff;
+    width: 250px;
+    padding: 1rem;
+  }
+  
+  /* Main content area styles */
+  .content {
+    flex: 1;
+    padding: 1rem;
+  }
+  
+  /* Table styles */
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table th,
+  .table td {
+    border: 1px solid #ccc;
+    padding: 0.5rem;
+  }
+  
+  /* Buttons styles */
+  .button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 0.5rem 1rem;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Form styles */
+  .form-group {
+    margin-bottom: 1rem;
+  }
+  
+  .form-label {
+    display: block;
+    font-weight: bold;
+  }
+  
+  .form-input {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  /* Footer styles */
+  .footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+  }
